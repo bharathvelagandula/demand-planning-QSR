@@ -35,3 +35,8 @@ A practical, end-to-end weekly demand planning workbook built in Microsoft Excel
 - **Supply Chain & Demand Planning:** Time-Series Seasonal Forecasting, Forecast Value Added (FVA), Assumption Logging, PDCA Governance, Volume-Weighted Accuracy (WAPE), POS Data Cleansing, Top-Down SKU Disaggregation, ABC–XYZ Segmentation, Labor Capacity Planning.
 
 ## Dashboard Previews
+![Forecast Tab](./forecast-tab.png)
+
+![Inventory Tab](./inventory-tab.png)
+
+![ABC-XYZ Tab](./abc-xyz-tab.png)
